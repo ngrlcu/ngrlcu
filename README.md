@@ -8,7 +8,7 @@ job: Physics MSc Student
 education: ["Master's in Physics", "Bachelor's in Physics"]
 
 fields_of_interests: ["Quantum Computing", "Quantum Information", "Machine Learning", "Deep Learning", "Quantum Optics"]
-hobbies: ["Piano", "Sax", "Photography", "Raspberry"]
+hobbies: ["Piano", "Sax", "Photography", "RaspberryPi"]
 ```
 
 <p align="center">
