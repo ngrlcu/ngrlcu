@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=C+i+a+o+!;H+e+l+l+o+!;H+o+l+a+!;B+o+n+j+o+u+r+!;G+u+t+e+n++T+a+g+!;n+ǐ+n++h+ǎ+o+!)](https://git.io/typing-svg)
 
+![Visitor Count](https://profile-counter.glitch.me/ngrlcu/count.svg)
+
 ```yaml
 name: Luca Nigro
 located_in: Oslo, Norway
