@@ -20,9 +20,6 @@ hobbies: ["Piano", "Sax", "Photography", "RaspberryPi"]
 <p align="center">
 <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=ngrlcu&show_icons=true&theme=dark" />
 <p/>
-<p align="center">
-<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngrlcu&layout=compact&theme=dark" />
-</p>
 
 <p align="center">
 <br/>
