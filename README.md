@@ -5,10 +5,10 @@
 ```yaml
 name: Luca Nigro
 from: Milan, Italy
-job: Physics MSc Student
-education: ["Master's in Physics", "Bachelor's in Physics"]
+job: Physics PhD Student
+education: ["PhD in Quantum Computing", "Master's in Physics", "Bachelor's in Physics"]
 
-fields_of_interests: ["Quantum Computing", "Quantum Information"]
+fields_of_interests: ["Quantum Optimization", "Variational Quantum Circuit", "Quantum Computing", "Quantum Information"]
 hobbies: ["Piano", "Sax", "Photography", "RaspberryPi"]
 ```
 
